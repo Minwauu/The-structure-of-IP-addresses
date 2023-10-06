@@ -29,3 +29,9 @@ Subnetting:
 - A subnet ID is used, this has to come from the most significant bits from the host ID part of the IP address.
 
   ![image](https://github.com/Minwauu/The-structure-of-IP-addresses/assets/110039102/9b753ed9-67c1-40e7-8b02-e30dd8e84018)
+![image](https://github.com/Minwauu/The-structure-of-IP-addresses/assets/110039102/52818d98-0178-4aaf-88bc-3568dbd82523)
+
+1. 192.169.2.0
+2. 192.168.0.0
+3. 192.168.252.0
+   
